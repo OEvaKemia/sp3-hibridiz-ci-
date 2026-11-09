@@ -1,0 +1,6 @@
+{
+  "name": "A szénatom sp³-hibridizációja – 3D Kémiai Animáció",
+  "description": "Interaktív, tudományosan pontos 3D-s oktatómodell és animáció a szénatom sp³-hibridizációjáról és a metánmolekuláról középiskolásoknak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
